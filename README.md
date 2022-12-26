@@ -10,7 +10,7 @@ The underlying assumption of pairs trading is that stocks with similar character
 
 Although the portfolio outperformed the index slightly, it performed relatively well. 
 
-However, it is important to keep in mind that the results presented here are based on closing prices, which may not accurately reflect the prices at which one could realistically trade. Closing prices are often the result of an auction and can introduce additional volatility to the data. As a result, the results of pairs trading strategies run on closing price data may be better than they would be in real-world trading. It is worth bearing in mind that this may lead to an overestimation of the potential profitability of the strategy.
+It is important to consider the limitations of the results presented. One important factor to keep in mind is the use of closing prices, which are widely available but may not accurately reflect the prices at which one could realistically trade. This is because closing prices are often the result of an auction and can introduce additional volatility to the data. As a result, the results of pairs trading strategies run on closing price data may be better than they would be in real-world trading. It is worth bearing in mind that this may lead to an overestimation of the potential profitability of the strategy.
 
 # About Me
 Email: ndhlovuthabang1@gmail.com
